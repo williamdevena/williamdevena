@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Education:
+## Education:
   - 📚 MSc Integrated Machine Learning System at UCL (London)
   - 📚 BSc Computer Science at La Sapienza (Rome)
 
-- About me:
+## About me:
   - Half 🇮🇹 half 🇬🇧
   - Waterpolo player 🤽‍♂️
   - 🐶🐱 lover
