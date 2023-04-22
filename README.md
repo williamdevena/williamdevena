@@ -29,6 +29,10 @@ Here are some ideas to get you started:
   - 📚 MSc Integrated Machine Learning System at UCL (London)
   - 📚 BSc Computer Science at La Sapienza (Rome)
 
+### Experience:
+  - ML Researcher at Modis
+  - SWE at Leonardo
+
 ### About me:
   - 0.5 🇮🇹 + 0.5 half 🇬🇧
   - Waterpolo player 🤽‍♂️
