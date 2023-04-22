@@ -27,6 +27,8 @@ Check out my linkedin profile.
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamdevena&hide=contribs,prs)-->
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=williamdevena&include_all_commits=True&show_icons=True&hide_title=True#)" alt="Stats" style="width:450px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamdevena&layout=compact&langs_count=5&hide=jupyter%20notebook,tex,kotlin&exlude_repo=MyVideoLibrary&hide_title=True#" alt="Top Langs" style="width:355px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamdevena&layout=compact&langs_count=5
+            &hide=tex,kotlin
+            &exlude_repo=MyVideoLibrary&hide_title=True#" alt="Top Langs" style="width:355px;"/>
 </p>
 
