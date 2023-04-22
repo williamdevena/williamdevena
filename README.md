@@ -20,8 +20,8 @@ Here are some ideas to get you started:
   - 📚 BSc Computer Science at La Sapienza (Rome)
 
 - About me:
-  - Half 🇮🇹 half 🇬🇧 :uk:
-  - Waterpolo player 🤽🏻‍♂️ :water_polo:
+  - Half 🇮🇹 half 🇬🇧
+  - Waterpolo player :waterpolo:
   - 🐶🐱 lover
   - Currently in London 🎡
 
