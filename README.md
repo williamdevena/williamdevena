@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   - 📚 BSc Computer Science at La Sapienza (Rome)
 
 ### About me:
-  - 0.5 🇮 + 🇹 0.5 half 🇬🇧
+  - 0.5 🇮🇹 + 0.5 half 🇬🇧
   - Waterpolo player 🤽‍♂️
   - 🐶🐱 lover
   - Currently in London 🎡
