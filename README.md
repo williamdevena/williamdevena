@@ -2,7 +2,17 @@
 
 <!--![bean](mr-bean-funny.gif)-->
 
-<img valign="middle" src="mr-bean-funny.gif"  /> My Text
+<img valign="middle" src="mr-bean-funny.gif"  /> 
+### Education:
+  - 📚 MSc Integrated Machine Learning System at UCL (London)
+  - 📚 BSc Computer Science at La Sapienza (Rome)
+
+### About me:
+  - Half 🇮🇹 half 🇬🇧
+  - Waterpolo player 🤽‍♂️
+  - 🐶🐱 lover
+  - Currently in London 🎡
+
 
 
 
