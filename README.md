@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=williamdevena)
 
-<div align="center">
+<div align="left">
 <a href="https://www.linkedin.com/in/william-de-vena-aa1bb11aa">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
