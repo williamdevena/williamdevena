@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 - About me:
   - Half 🇮🇹 half 🇬🇧
+  - Waterpolo player 🤽🏻‍♂️
   - 🐶🐱 lover
   - Currently in London 🎡
 
