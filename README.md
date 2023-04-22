@@ -3,6 +3,7 @@
 <!--![bean](mr-bean-funny.gif)-->
 
 <img valign="middle" src="mr-bean-funny.gif"> 
+
 ### Education:
   - 📚 MSc Integrated Machine Learning System at UCL (London)
   - 📚 BSc Computer Science at La Sapienza (Rome)
