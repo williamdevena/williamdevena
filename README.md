@@ -17,5 +17,9 @@ Here are some ideas to get you started:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamdevena&hide=contribs,prs)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamdevena&hide=contribs,prs)-->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=williamdevena&include_all_commits=True&show_icons=True&hide_title=True#)" alt="Stats" style="width:450px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamdevena&layout=compact&langs_count=8&hide_title=True#" alt="Top Langs" style="width:355px;"/>
+</p>
 
