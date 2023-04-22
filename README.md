@@ -22,18 +22,15 @@ Here are some ideas to get you started:
 -->
 
 
-
-
-
-### Education:
-  - 📚 MSc Integrated Machine Learning System at UCL (London)
-  - 📚 BSc Computer Science at La Sapienza (Rome)
-
 ### About me:
   - 0.5 🇮🇹 + 0.5 half 🇬🇧
   - Waterpolo player 🤽‍♂️
   - 🐶🐱 lover
   - Currently in London 🎡
+
+### Education:
+  - 📚 MSc Integrated Machine Learning System at UCL (London)
+  - 📚 BSc Computer Science at La Sapienza (Rome)
 
 
 
