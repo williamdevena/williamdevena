@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-<div align="left">
-<a href="https://www.linkedin.com/in/william-de-vena-aa1bb11aa">
-<img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-</div>
-
 <!--
 **williamdevena/williamdevena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,9 +27,17 @@ Here are some ideas to get you started:
 
 
 
+<!--
 Check out my linkedin profile. 
 
 - <img src=https://cdn-icons-png.flaticon.com/512/3536/3536505.png width=20 style="vertical-align:middle"> &nbsp;[Linkedin](https://www.linkedin.com/in/william-de-vena-aa1bb11aa/)</br></br>
+-->
+
+<div align="left">
+<a href="https://www.linkedin.com/in/william-de-vena-aa1bb11aa">
+<img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+</div>
 
 
 
