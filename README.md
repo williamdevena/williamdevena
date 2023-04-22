@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Check out my linkedin profile. 
 
-- <img src=https://cdn-icons-png.flaticon.com/512/3536/3536505.png width=20 style="vertical-align:middle"> &nbsp;[Linkedin]([https://www.linkedin.com/in/edoardogruppi](https://www.linkedin.com/in/william-de-vena-aa1bb11aa))</br></br>
+- <img src=https://cdn-icons-png.flaticon.com/512/3536/3536505.png width=20 style="vertical-align:middle"> &nbsp;[Linkedin](https://www.linkedin.com/in/william-de-vena-aa1bb11aa/)</br></br>
 
 
 
