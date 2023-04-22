@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - Half 🇮🇹 half 🇬🇧
 - 📚 MSc Integrated Machine Learning System at UCL (London)
 - 📚 BSc Computer Science at La Sapienza (Rome)
-- 
+- 🐶🐱 lover
 
 
 
