@@ -15,10 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Half 🇮🇹 half 🇬🇧
-- 📚 MSc Integrated Machine Learning System at UCL (London)
-- 📚 BSc Computer Science at La Sapienza (Rome)
-- 🐶🐱 lover
+- Education:
+  - 📚 MSc Integrated Machine Learning System at UCL (London)
+  - 📚 BSc Computer Science at La Sapienza (Rome)
+
+- About me:
+  - Half 🇮🇹 half 🇬🇧
+  - 🐶🐱 lover
+  - Currently in London 🎡
 
 
 
