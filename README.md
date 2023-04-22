@@ -2,6 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=williamdevena)
 
+<div align="center">
+<a href="https://www.linkedin.com/in/william-de-vena-aa1bb11aa">
+<img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+</div>
+
 <!--
 **williamdevena/williamdevena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
