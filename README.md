@@ -9,8 +9,8 @@
 
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;About me:
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 0.5 🇮🇹 + 0.5 half 🇬🇧\n
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Waterpolo player 🤽‍♂️\n
+  - 0.5 🇮🇹 + 0.5 half 🇬🇧
+  - Waterpolo player 🤽‍♂️
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🐶🐱 lover\n
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Currently in London 🎡\n
 
