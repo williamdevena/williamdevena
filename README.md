@@ -3,7 +3,7 @@
 <!--![bean](mr-bean-funny.gif)-->
 
 <div>
-    <img align="left" padding-right=10px width="200" src="mr-bean-funny.gif">
+    <img style="float: left; width: 300px; padding-right: 20px;" src="mr-bean-funny.gif">
     <p>- 0.5 🇮🇹 + 0.5 half 🇬🇧</p>
 </div>
 
