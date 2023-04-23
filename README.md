@@ -59,7 +59,7 @@ Check out my linkedin profile.
 </div>
 
 
-<br><br>
+<br>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamdevena&hide=contribs,prs)-->
 <p align='left'>
