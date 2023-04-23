@@ -4,7 +4,7 @@
 
 <div>
     <img align='left' padding=200 src="mr-bean-funny.gif">
-    <p>- 0.5 🇮🇹 + 0.5 half 🇬🇧</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;- 0.5 🇮🇹 + 0.5 half 🇬🇧</p>
 </div>
 
 
