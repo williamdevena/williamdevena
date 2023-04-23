@@ -9,14 +9,14 @@
 
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;About me:
-  - 0.5 🇮🇹 + 0.5 half 🇬🇧
-  - Waterpolo player 🤽‍♂️
-  - 🐶🐱 lover
-  - Currently in London 🎡
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 0.5 🇮🇹 + 0.5 half 🇬🇧
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Waterpolo player 🤽‍♂️
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🐶🐱 lover
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Currently in London 🎡
 
-### Education:
-  - 📚 MSc Integrated Machine Learning System at UCL (London)
-  - 📚 BSc Computer Science at La Sapienza (Rome)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Education:
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 📚 MSc Integrated Machine Learning System at UCL (London)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 📚 BSc Computer Science at La Sapienza (Rome)
 
 
 
