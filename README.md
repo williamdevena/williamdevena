@@ -3,7 +3,7 @@
 <!--![bean](mr-bean-funny.gif)-->
 
 <!--<img valign="middle" src="mr-bean-funny.gif">-->
-<img valign="middle" src="My Project-1.png">
+<img valign="middle" src="My project-1.png">
 
 
 
