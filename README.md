@@ -2,10 +2,10 @@
 
 <!--![bean](mr-bean-funny.gif)-->
 
-![bean](My project-1.png)
+
 
 <!--<img valign="middle" src="mr-bean-funny.gif">-->
-<!--<img upper-margin valign="middle" src="My project-1.png">-->
+<img upper-margin=0 valign="middle" src="My project-1.png">
 
 
 
