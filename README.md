@@ -4,17 +4,19 @@
 
 <img align="left" width="200" src="mr-bean-funny.gif" />
 
-# Headline 
+### About me:
+  - 0.5 🇮🇹 + 0.5 half 🇬🇧
+  - Waterpolo player 🤽‍♂️
+  - 🐶🐱 lover
+  - Currently in London 🎡
 
-Some text
+### Education:
+  - 📚 MSc Integrated Machine Learning System at UCL (London)
+  - 📚 BSc Computer Science at La Sapienza (Rome)
 
 
 
-<img valign="middle" src="mr-bean-funny.gif" \> 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=williamdevena&include_all_commits=True&show_icons=True&hide_title=True#)" alt="Stats" style="width:450px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamdevena&layout=compact&langs_count=5&hide=jupyter%20notebook,tex,kotlin&exlude_repo=MyVideoLibrary&hide_title=True#" alt="Top Langs" style="width:355px;"/>
-</p>
+
 <!--<img upper-margin=0 valign="middle" src="My project-1.png">-->
 
 
@@ -35,15 +37,7 @@ Here are some ideas to get you started:
 -->
 
 
-### About me:
-  - 0.5 🇮🇹 + 0.5 half 🇬🇧
-  - Waterpolo player 🤽‍♂️
-  - 🐶🐱 lover
-  - Currently in London 🎡
 
-### Education:
-  - 📚 MSc Integrated Machine Learning System at UCL (London)
-  - 📚 BSc Computer Science at La Sapienza (Rome)
 
 
 
