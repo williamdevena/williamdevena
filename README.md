@@ -2,7 +2,7 @@
 
 <!--![bean](mr-bean-funny.gif)-->
 
-<img align="left" width="200" src="mr-bean-funny.gif" />
+<img align="left" margin-right=10 width="200" src="mr-bean-funny.gif" />
 
 ### About me:
   - 0.5 🇮🇹 + 0.5 half 🇬🇧
