@@ -51,7 +51,7 @@ Check out my linkedin profile.
 - <img src=https://cdn-icons-png.flaticon.com/512/3536/3536505.png width=20 style="vertical-align:middle"> &nbsp;[Linkedin](https://www.linkedin.com/in/william-de-vena-aa1bb11aa/)</br></br>
 -->
 
-<br><br>
+<br><br><br>
 <div align="left">
 <a href="https://www.linkedin.com/in/william-de-vena-aa1bb11aa">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
