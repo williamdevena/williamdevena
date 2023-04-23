@@ -4,12 +4,11 @@
 
 <div>
     <img align='left' padding=200 src="mr-bean-funny.gif">
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;- 0.5 🇮🇹 + 0.5 half 🇬🇧</p>
 </div>
 
 
 
-### &nbsp;&nbsp;&nbsp;&nbsp;About me:
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;About me:
   - 0.5 🇮🇹 + 0.5 half 🇬🇧
   - Waterpolo player 🤽‍♂️
   - 🐶🐱 lover
